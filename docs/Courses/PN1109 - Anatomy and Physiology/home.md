@@ -1,4 +1,4 @@
-# PN1109 - Anatomy & Physiology
+# Course Home
 
 ## Course Overview
 
