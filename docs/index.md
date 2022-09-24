@@ -1,6 +1,6 @@
-# Obsidian Notes
+# Practical Nursing 2022-2024
 
-Publish your public notes with MkDocs
+Welcome to my personal notes!
 
 ## Hello World!
 
