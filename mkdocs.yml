@@ -58,7 +58,4 @@ extra_javascript:
 extra:
   generator: false
 
----
-hide:
-  - footer
----
+copyright: Copyright &copy; 2022 - 2024 Jeremy Saunders
