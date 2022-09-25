@@ -1,5 +1,7 @@
 ---
-hide: footer
+hide: 
+    - footer
+    - toc
 ---
 
 # Practical Nursing 2022-2024
