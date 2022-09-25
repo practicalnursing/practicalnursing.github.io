@@ -1,6 +1,7 @@
 site_name: Practical Nursing
 
 theme:
+    logo: assets/logo.png
     name: 'material'
     palette:
 
