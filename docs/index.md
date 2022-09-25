@@ -1,3 +1,8 @@
+---
+hide:
+  - footer
+---
+
 # Practical Nursing 2022-2024
 
 Welcome to my personal notes!
