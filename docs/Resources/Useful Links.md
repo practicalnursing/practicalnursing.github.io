@@ -1,5 +1,3 @@
-Useful Links
-
 ## College of the North Atlantic
 
 Click [here](https://www.cna.nl.ca) to access the **CNA Homepage**
