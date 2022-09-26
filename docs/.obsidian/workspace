@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Metabolism.md",
+            "file": "Glossary of Key Terms/Metabolism.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Metabolism.md",
+                "file": "Glossary of Key Terms/Metabolism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Metabolism.md",
+                "file": "Glossary of Key Terms/Metabolism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Metabolism.md"
+                "file": "Glossary of Key Terms/Metabolism.md"
               }
             }
           }
@@ -130,14 +130,14 @@
   },
   "active": "a1b8b24a1bf90d13",
   "lastOpenFiles": [
+    "Key Terms Glossary.md",
     "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Body functions necessary for life.md",
-    "Anabolism.md",
-    "Catabolism.md",
-    "Metabolism.md",
+    "Glossary of Key Terms/Catabolism.md",
+    "Glossary of Key Terms/Metabolism.md",
+    "Glossary of Key Terms/Anabolism.md",
     "Resources/How to access and use EBSCO.md",
     "Resources/Useful Links.md",
     "index.md",
-    "Key Terms Glossary.md",
     "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Directional terms of the body.md",
     "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Eleven body systems and their functions.md"
   ]
