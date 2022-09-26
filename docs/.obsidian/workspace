@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Glossary of Key Terms/Anabolism.md",
+            "file": "Glossary of Key Terms/Anatomy and Physiology/Anabolism.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary of Key Terms/Anabolism.md",
+                "file": "Glossary of Key Terms/Anatomy and Physiology/Anabolism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary of Key Terms/Anabolism.md",
+                "file": "Glossary of Key Terms/Anatomy and Physiology/Anabolism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary of Key Terms/Anabolism.md"
+                "file": "Glossary of Key Terms/Anatomy and Physiology/Anabolism.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a1b8b24a1bf90d13",
+  "active": "a56dbe5719882e25",
   "lastOpenFiles": [
-    "Glossary of Key Terms/Catabolism.md",
-    "Glossary of Key Terms/Anabolism.md",
-    "Glossary of Key Terms/Metabolism.md",
+    "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Body functions necessary for life.md",
+    "Courses/Semester 1/PN1109 - Anatomy and Physiology I/key terms.md",
+    "Glossary of Key Terms/Anatomy and Physiology/Homeostasis.md",
+    "Glossary of Key Terms/Anatomy and Physiology/Anabolism.md",
+    "Glossary of Key Terms/Anatomy and Physiology/Catabolism.md",
+    "Glossary of Key Terms/Anatomy and Physiology/Metabolism.md",
     "assets/Catabolism.png",
     "assets/Catabolism and Anabolism.png",
     "Key Terms Glossary.md",
-    "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Body functions necessary for life.md",
-    "Resources/How to access and use EBSCO.md",
-    "Resources/Useful Links.md",
-    "index.md"
+    "Resources/How to access and use EBSCO.md"
   ]
 }
