@@ -6,3 +6,4 @@ Metabolism is chemical reactions in the body.
 
 [[Catabolism]]  and [[Anabolism]]
 
+![[Catabolism and Anabolism.png]]
