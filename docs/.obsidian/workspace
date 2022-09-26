@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/Useful Links.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Useful Links.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Useful Links.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Useful Links.md"
+                "file": "index.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "a1b8b24a1bf90d13",
   "lastOpenFiles": [
-    "Resources/How to access and use EBSCO.md",
     "Resources/Useful Links.md",
+    "Resources/How to access and use EBSCO.md",
     "index.md",
     "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Body functions necessary for life.md",
     "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Directional terms of the body.md",
