@@ -4,6 +4,5 @@ Metabolism is chemical reactions in the body.
 
 #### Two classes of metabolism
 
-[[Catabolism]] 
+[[Catabolism]]  and [[Anabolism]]
 
-[[Anabolism]]
