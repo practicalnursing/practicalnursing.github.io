@@ -7,21 +7,21 @@ All organ systems of the body, under direction from the [nervous](Nervous System
 
 ### Homeostatic Control
 
-Homeostasis is also referred to as the set point (desired value of a variable)
+Homeostasis is also referred to as the set point (desired value of a variable).
 
 There are three (3) main components of homeostasis:
 
 ##### Receptor
 
-Receives information regarding the status of the body and relays it to the control center along the afferent pathway.
+Receives information from a stimulus regarding the status of the body and relays it to the control center along the afferent pathway.
 
 ##### Control Center
 
-Processes information received from the receptor and sends signals to the effector along an efferent pathway.
+Processes information received from the receptor and sends signals to the effector along the efferent pathway.
 
 ##### Effector
 
-Receives information from the control center and sends a signal to the appropriate place to stimulate action and return the body to equilibrium.
+A cell, tissue, or organ that receives information from the control center and sends a signal to the appropriate place to stimulate action and return the body to equilibrium.
 
 
 ### Feedback Loop Mechanisms
