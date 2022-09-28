@@ -12,6 +12,6 @@ Using the left-side navigation panel you can explore course notes, find definiti
 
 <div class="grid cards" markdown>
 
-- :fa-1: Semester One
+- :fontawesome-solid-1: Semester One
 
 </div>
