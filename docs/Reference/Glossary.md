@@ -3,6 +3,6 @@ hide:
     - footer
 ---
 
-# Reference
+# Glossary
 
 [TAGS]

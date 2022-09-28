@@ -59,8 +59,8 @@ plugins:
   - mermaid2
   - tags:
       tags_extra_files:
-        Reference/index.md:
-          - pn1109
+        Glossary.md:
+          - PN1109
           - concepts
           - terms
         
