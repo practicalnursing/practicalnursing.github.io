@@ -33,7 +33,7 @@ Example: [[Golgi Apparatus]], Rough [[Endoplasmic Reticulum]]
 
 ### Cellular
 
-Refers to [cells](Cell), the basic structural and functional unit of life.
+Refers to [cells](Cell.md), the basic structural and functional unit of life.
 
 
 ### Tissue

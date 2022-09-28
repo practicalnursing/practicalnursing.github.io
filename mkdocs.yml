@@ -57,6 +57,14 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
+  - tags:
+      tags_extra_files:
+        compatibility.md:
+          - compat 
+        web.md:
+          - html
+          - js
+          - css
 
 extra_javascript:
   - javascripts/mathjax.js

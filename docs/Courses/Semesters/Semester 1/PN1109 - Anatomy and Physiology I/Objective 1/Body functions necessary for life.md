@@ -1,3 +1,7 @@
+---
+tags: Anatomy and Physiology
+---
+
 # Body functions necessary for life
 
 The eight (8) bodily functions necessary for life are:
@@ -49,11 +53,11 @@ Both types are essential for life and the continuation of a species.
 
 Increase in the size of a body part or entire organism.
 
-[Anabolic](Anabolism) (constructive) processes must occur faster than [Catabolic](Catabolism) (destructive) processes.
+[Anabolic](Anabolism.md) (constructive) processes must occur faster than [Catabolic](Catabolism.md) (destructive) processes.
 
 ### Digestion
 
-The [metabolic](Metabolism) process of breaking down food into simpler [molecules](Molecule) to be used by the body
+The [metabolic](Metabolism.md) process of breaking down food into simpler [molecules](Molecule.md) to be used by the body
 
 
 ### Excretion
