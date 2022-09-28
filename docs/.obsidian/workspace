@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Key Terms & Concepts/index.md",
-            "mode": "source",
+            "file": "index.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key Terms & Concepts/index.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key Terms & Concepts/index.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key Terms & Concepts/index.md"
+                "file": "index.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "fe8d3e9bc06d19cc",
   "lastOpenFiles": [
+    "Key Terms & Concepts/index.md",
     "Courses/Semesters/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Body functions necessary for life.md",
     "Key Terms & Concepts/Anabolism.md",
-    "Key Terms & Concepts/index.md",
     "Courses/Semesters/index.md",
     "Courses/index.md",
     "index.md",
