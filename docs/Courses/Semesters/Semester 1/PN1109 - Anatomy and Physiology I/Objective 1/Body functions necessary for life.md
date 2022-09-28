@@ -1,8 +1,9 @@
 ---
 tags:
-	- PN1109
-	- Concepts
+  - PN1109
+  - Terms
 ---
+
 # Body functions necessary for life
 
 The eight (8) bodily functions necessary for life are:
