@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Resources/How to access and use EBSCO.md",
+            "file": "Help & Guides/index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/How to access and use EBSCO.md",
+                "file": "Help & Guides/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/How to access and use EBSCO.md",
+                "file": "Help & Guides/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/How to access and use EBSCO.md"
+                "file": "Help & Guides/index.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "a1b8b24a1bf90d13",
   "lastOpenFiles": [
+    "index.md",
+    "tags.md",
+    "Help & Guides/index.md",
+    "Help & Guides/How to access and use EBSCO.md",
     "Reference/Key Terms & Concepts/Nervous System.md",
     "Reference/Key Terms & Concepts/Molecule.md",
     "Reference/Key Terms & Concepts/Metabolism.md",
     "Reference/Key Terms & Concepts/Homeostasis.md",
     "Reference/Key Terms & Concepts/Golgi Apparatus.md",
-    "Reference/Key Terms & Concepts/Endoplasmic Reticulum.md",
-    "Reference/Key Terms & Concepts/Endocrine System.md",
-    "Reference/Key Terms & Concepts/Contractility.md",
-    "Reference/Key Terms & Concepts/Cell.md",
-    "Reference/Key Terms & Concepts/Catabolism.md"
+    "Reference/Key Terms & Concepts/Endoplasmic Reticulum.md"
   ]
 }
