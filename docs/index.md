@@ -12,4 +12,4 @@ Using the left-side navigation panel or by clicking the buttons below you can ex
 
 [:material-calendar-search: Semesters](Courses/Semesters){ .md-button .md-button--primary }
 
-[:material-help-circle: Help & Guides](Resources/index.md){ .md-button .md-button--primary }
+[:material-help-circle: Help & Guides](Help & Guides/index.md){ .md-button .md-button--primary }
