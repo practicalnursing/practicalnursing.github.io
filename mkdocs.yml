@@ -54,11 +54,12 @@ markdown_extensions:
       permalink: true
 
 plugins:
+  - tags:
+      tags_file: tags.md
   - search
   - roamlinks 
   - mermaid2
-  - tags:
-      tags_file: tags.md
+  
         
       
 
