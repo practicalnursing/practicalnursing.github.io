@@ -58,11 +58,7 @@ plugins:
   - roamlinks 
   - mermaid2
   - tags:
-      tags_extra_files:
-        Glossary.md:
-          - PN1109
-          - concepts
-          - terms
+      tags_file: Glossary.md
         
       
 
