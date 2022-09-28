@@ -1,97 +1,97 @@
 # Directional terms of the body
 
-## Superior
+### Superior
 
 Means above or in a higher position (closer to the head).
 
 Example: *The eyes are superior to the neck.*
 
 
-## Inferior
+### Inferior
 
 Means below or in a lower position (closer to the feet).
 
 Example: The chest is inferior to the neck.
 
 
-## Ventral/Anterior
+### Ventral/Anterior
 
 Means located towards the front of the body; toward the belly surface.
 
 Example: The abdomen is ventral to the back.
 
 
-## Dorsal/Posterior
+### Dorsal/Posterior
 
 Means located towards the back of the body.
 
 Example: The spine is dorsal to the breastbone.
 
 
-## Medial
+### Medial
 
 Means nearer to the middle of the body.
 
 Example: The nose is medial to the ears.
 
 
-## Lateral
+### Lateral
 
 Means nearer to the side of the body.
 
 Example: The ears are lateral to the eyes.
 
 
-## Proximal
+### Proximal
 
 Means nearer to the point of origin of the structure.
 
 Example: The elbow is proximal to the wrist.
 
 
-## Distal
+### Distal
 
 Means farther from the point of origin of the structure.
 
 Example: The fingers are distal to the wrist.
 
 
-## Superficial
+### Superficial
 
 Means near or on surface of the body.
 
 Example: The superficial (outermost layer) of the skin is the epidermis.
 
 
-## Deep
+### Deep
 
 Means farther away from the surface of the body.
 
 Example: Muscles are deep to the skin.
 
 
-## Cranial
+### Cranial
 
 Refers to the head end of the body.
 
 Example: Cranial pressure causes headaches.
 
 
-## Caudal
+### Caudal
 
 Refers to the tail end of the body.
 
 Example: Caudal anesthetic is injected into the lower spine.
 
 
-## Visceral
+### Visceral
 
 Pertains to the internal organs or the coverings of organs.
 
 Example: The visceral pericardium, which is a membrane, covers the heart.
 
 
-## Parietal
+### Parietal
 
 Pertains to the wall of a body cavity.
 
