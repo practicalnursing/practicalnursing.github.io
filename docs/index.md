@@ -10,8 +10,4 @@ Welcome to my personal collection of notes.
 
 Using the left-side navigation panel you can explore course notes, find definitions with the key term index, and access resources to help with studying and completing assignments.
 
-<div class="grid cards" markdown>
-
-- :fontawesome-solid-1: Semester One
-
-</div>
+<i class="fa-solid fa-1"></i> Semester One
