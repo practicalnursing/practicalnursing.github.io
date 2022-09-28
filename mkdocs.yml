@@ -59,12 +59,12 @@ plugins:
   - mermaid2
   - tags:
       tags_extra_files:
-        compatibility.md:
-          - compat 
-        web.md:
-          - html
-          - js
-          - css
+        Reference/index.md:
+          - PN1109
+          - Concepts
+          - Terms
+        
+      
 
 extra_javascript:
   - javascripts/mathjax.js
