@@ -34,7 +34,8 @@ Many types/examples throughout the body:
 <li>Cells</li>
 <li>Breathing muscles</li>
 <li>Skeletal muscles</li>
-<li>Food</lI>
+<li>Food</li>
+</ul>
 
 ### Reproduction
 
