@@ -1,3 +1,7 @@
+---
+tags: #PN1109
+---
+
 When simple parts use energy to construct complex substances.
 
 ![[Anabolism.jpg]]

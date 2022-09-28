@@ -1,3 +1,7 @@
+---
+tags: #PN1109
+---
+
 Metabolism is chemical reactions in the body.
 
 ![[Metabolism.png]]
