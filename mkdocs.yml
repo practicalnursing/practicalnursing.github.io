@@ -70,9 +70,5 @@ extra_javascript:
 
 extra:
   generator: false
-  tags:
-    Anatomy and Physiology I: PN1109
-    Concepts: concepts
-    Terms: terms
 
 copyright: Copyright &copy; 2022 - 2024 Jeremy Saunders
