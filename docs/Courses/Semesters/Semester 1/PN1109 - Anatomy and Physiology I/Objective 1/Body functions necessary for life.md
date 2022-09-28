@@ -1,7 +1,7 @@
 ---
 tags:
   - PN1109
-  - Terms
+  - Concepts
 ---
 
 # Body functions necessary for life
