@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reference/Key Terms & Concepts/Nervous System.md",
+            "file": "Resources/How to access and use EBSCO.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reference/Key Terms & Concepts/Nervous System.md",
+                "file": "Resources/How to access and use EBSCO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reference/Key Terms & Concepts/Nervous System.md",
+                "file": "Resources/How to access and use EBSCO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference/Key Terms & Concepts/Nervous System.md"
+                "file": "Resources/How to access and use EBSCO.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "a1b8b24a1bf90d13",
   "lastOpenFiles": [
+    "Reference/Key Terms & Concepts/Nervous System.md",
     "Reference/Key Terms & Concepts/Molecule.md",
     "Reference/Key Terms & Concepts/Metabolism.md",
     "Reference/Key Terms & Concepts/Homeostasis.md",
@@ -138,7 +139,6 @@
     "Reference/Key Terms & Concepts/Endocrine System.md",
     "Reference/Key Terms & Concepts/Contractility.md",
     "Reference/Key Terms & Concepts/Cell.md",
-    "Reference/Key Terms & Concepts/Catabolism.md",
-    "Reference/Key Terms & Concepts/Anabolism.md"
+    "Reference/Key Terms & Concepts/Catabolism.md"
   ]
 }

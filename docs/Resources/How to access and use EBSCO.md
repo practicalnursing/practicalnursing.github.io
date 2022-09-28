@@ -1,3 +1,6 @@
 ---
-hide:footer
+tags:
+  - Guides
+
+hide: footer
 ---
