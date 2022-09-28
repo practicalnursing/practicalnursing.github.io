@@ -29,12 +29,12 @@ The [[Nervous System]] is mostly involved in responsiveness.
 Occurs in body through muscles due to [[Contractility]].
 
 Many types/examples throughout the body:
-- Blood
-- Cells
-- Breathing muscles
-- Skeletal muscles
-- Food
-
+<ul>
+<li>Blood</li>
+<li>Cells</li>
+<li>Breathing muscles</li>
+<li>Skeletal muscles</li>
+<li>Food</lI>
 
 ### Reproduction
 
