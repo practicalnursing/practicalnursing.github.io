@@ -98,4 +98,8 @@ Pertains to the wall of a body cavity.
 Example: The abdominal cavity is lined with parietal peritoneum.
 
 
+## Further Understanding
 
+<iframe width="420" height="315"  
+src="https://www.youtube.com/watch?v=t6-ueqFK1IE">  
+</iframe>
