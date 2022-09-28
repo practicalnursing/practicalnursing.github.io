@@ -58,7 +58,7 @@ plugins:
   - roamlinks 
   - mermaid2
   - tags:
-      tags_file: Glossary.md
+      tags_file: tags.md
         
       
 
