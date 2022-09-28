@@ -1,7 +1,6 @@
 ---
 hide: 
     - footer
-    - toc
 ---
 
 # Semesters
