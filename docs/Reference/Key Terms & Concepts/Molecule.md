@@ -1,6 +1,4 @@
----
-tags: #PN1109
----
+
 
 Two (2) or more atoms combined.
 

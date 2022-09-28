@@ -1,5 +1,6 @@
 ---
-tags: #PN1109 #Terms
+tags:
+	- PN1109
 ---
 
 When simple parts use energy to construct complex substances.
