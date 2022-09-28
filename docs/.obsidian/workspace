@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Help & Guides/index.md",
+            "file": "Help & Guides/How to access and use EBSCO.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Help & Guides/index.md",
+                "file": "Help & Guides/How to access and use EBSCO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Help & Guides/index.md",
+                "file": "Help & Guides/How to access and use EBSCO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Help & Guides/index.md"
+                "file": "Help & Guides/How to access and use EBSCO.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "a1b8b24a1bf90d13",
   "lastOpenFiles": [
+    "Help & Guides/index.md",
     "index.md",
     "tags.md",
-    "Help & Guides/index.md",
     "Help & Guides/How to access and use EBSCO.md",
     "Reference/Key Terms & Concepts/Nervous System.md",
     "Reference/Key Terms & Concepts/Molecule.md",
