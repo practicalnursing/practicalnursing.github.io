@@ -2,14 +2,17 @@ site_name: Practical Nursing
 
 theme:
     logo: assets/logo.png
+    features: 
+      - navigation.indexes
+      - navigation.sections
     name: 'material'
     palette:
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep purple
-      accent: deep purple
+      primary: blue
+      accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -17,8 +20,8 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep purple
-      accent: deep purple
+      primary: blue
+      accent: blue
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
@@ -26,6 +29,9 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
+  - attr_list
+  - md_in_html
+
   # - attr_list
   - pymdownx.arithmatex:
       generic: true
