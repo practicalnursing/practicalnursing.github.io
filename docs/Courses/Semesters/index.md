@@ -3,3 +3,6 @@ hide:
     - footer
     - toc
 ---
+
+# Semesters
+
