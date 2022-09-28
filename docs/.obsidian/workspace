@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "Courses/index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Courses/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Courses/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Courses/index.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "fe8d3e9bc06d19cc",
   "lastOpenFiles": [
-    "Courses.md",
-    "Semesters.md",
+    "Courses/Semesters/index.md",
+    "Courses/index.md",
     "index.md",
-    "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Body functions necessary for life.md",
-    "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Two major body cavities and their subdivisions.md",
-    "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Three planes of division of the body.md",
-    "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Organs and organ systems.md",
-    "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Nine abdominal regions and four abdominal quadrants.md",
-    "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Levels of organization in the body.md",
-    "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Eleven body systems and their functions.md"
+    "Semesters.md",
+    "Courses/Semesters/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Body functions necessary for life.md",
+    "Courses/Semesters/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Two major body cavities and their subdivisions.md",
+    "Courses/Semesters/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Three planes of division of the body.md",
+    "Courses/Semesters/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Organs and organ systems.md",
+    "Courses/Semesters/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Nine abdominal regions and four abdominal quadrants.md",
+    "Courses/Semesters/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Levels of organization in the body.md"
   ]
 }
