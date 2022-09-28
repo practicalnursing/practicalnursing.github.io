@@ -2,7 +2,6 @@
 
 ![[Anatomical Planes.jpg]]
 
-
 ### Sagittal Plane
 
 The body is split into left and right sections
