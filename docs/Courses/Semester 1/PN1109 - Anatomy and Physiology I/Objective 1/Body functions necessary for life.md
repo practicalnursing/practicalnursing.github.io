@@ -59,7 +59,7 @@ There are two types:
 
 - Formation of new person (organism)
   
-- Formation of new [cells](Cells) (cellular)
+- Formation of new [cells](Cell) (cellular)
 
 
 Both types are essential for life and the continuation of a species.
