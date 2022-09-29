@@ -1,4 +1,4 @@
-.blocknav {
-    height: 400px;
-    width: 700px;
+.options {
+    max-width: 700px;
+    max-height: 100%;
 }
