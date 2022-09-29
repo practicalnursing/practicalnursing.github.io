@@ -8,11 +8,15 @@ tags:
 
 The eight (8) bodily functions necessary for life are:
 
+---
+
 ### Maintaining boundaries
 
 The internal environment must be separate or distinct from the external environment.
 
 This is an important concept when we discuss [[Homeostasis]]
+
+---
 
 ### Metabolism
 
