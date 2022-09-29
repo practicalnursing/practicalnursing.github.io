@@ -5,6 +5,7 @@ theme:
     features: 
       - navigation.indexes
       - navigation.sections
+      - navigation.tabs
     name: 'material'
     palette:
 
@@ -78,6 +79,9 @@ extra:
   tags:
     Terms: Terms
   generator: false
+
+extra_css:
+  - stylesheets/extra.css
   
 
 copyright: Copyright &copy; 2022 - 2024 Jeremy Saunders
