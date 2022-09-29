@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Body functions necessary for life.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Body functions necessary for life.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Body functions necessary for life.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Body functions necessary for life.md"
+                "file": "index.md"
               }
             }
           }
@@ -128,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a1b8b24a1bf90d13",
+  "active": "a56dbe5719882e25",
   "lastOpenFiles": [
+    "Courses/Semester 1/PN1109 - Anatomy and Physiology I/Objective 1/Body functions necessary for life.md",
     "Courses/Semesters/Semester 1/PN1100 - Intro to Nursing Concepts/index.md",
     "Courses/Semesters/Semester 1/PN1109 - Anatomy & Physiology I/index.md",
     "Courses/Semesters/Semester 1/PN1109 - Anatomy & Physiology I/Objective 1/Three planes of division of the body.md",
@@ -138,7 +139,6 @@
     "Courses/Semesters/Semester 1/PN1109 - Anatomy & Physiology I/Objective 1/Nine abdominal regions and four abdominal quadrants.md",
     "Courses/Semesters/Semester 1/PN1109 - Anatomy & Physiology I/Objective 1/Levels of organization in the body.md",
     "Courses/Semesters/Semester 1/PN1109 - Anatomy & Physiology I/Objective 1/Homeostasis and its function in maintaining life.md",
-    "Courses/Semesters/Semester 1/PN1109 - Anatomy & Physiology I/Objective 1/Eleven body systems and their functions.md",
-    "Courses/Semesters/Semester 1/PN1109 - Anatomy & Physiology I/Objective 1/Directional terms of the body.md"
+    "Courses/Semesters/Semester 1/PN1109 - Anatomy & Physiology I/Objective 1/Eleven body systems and their functions.md"
   ]
 }
