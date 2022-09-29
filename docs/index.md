@@ -14,7 +14,7 @@ Using the left-side navigation panel or by clicking the buttons below you can ex
 
 <div class="grid cards" markdown>
 
-:material-calendar-search:{ .lg .middle } __Courses__
+:fontawesome-solid-graduation-cap:{ .lg .middle } __Courses__
 
 ---
 
