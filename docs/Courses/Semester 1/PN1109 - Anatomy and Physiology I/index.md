@@ -2,16 +2,25 @@
 
 <div class="grid cards" markdown>
 
-- :material-atom: __Objective 1__ 
-    Organization & Body Divisions
-- :fontawesome-solid-flask-vial: __Objective 2__ 
-    Basic Biochemistry
-- :fontawesome-solid-disease: __Objective 3__ 
-    Cells & Tissues
-- :simple-ipfs: __Objective 4__ 
-    Integumentary System
-- :fontawesome-solid-skull-crossbones: __Objective 5__ 
-    Skeletal System
+-  __Objective 1__ 
+
+   :material-atom: Organization & Body Divisions
+
+-  __Objective 2__ 
+
+   :fontawesome-solid-flask-vial: Basic Biochemistry
+
+-  __Objective 3__ 
+
+   :fontawesome-solid-disease: Cells & Tissues
+
+-  __Objective 4__ 
+
+   :simple-ipfs: Integumentary System
+
+-  __Objective 5__ 
+
+   :fontawesome-solid-skull-crossbones: Skeletal System
 </div>
 
 
