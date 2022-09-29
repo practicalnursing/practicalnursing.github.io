@@ -3,7 +3,7 @@ hide:
     - footer
 ---
 
-# Course
+# Courses
 
 Choose a course from the list of semesters below.
 
