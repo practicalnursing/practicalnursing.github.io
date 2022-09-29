@@ -4,30 +4,22 @@ Choose a course objective below to get started.
 
 <div class="grid cards" markdown>
 
--  __Objective 1__
-   :material-atom: Organization & Body Divisions
-   ---
-   [:octicons-arrow-right-24: Start here](Objective 1/Body functions necessary for life.md)
+-  :material-atom:{ .lg .middle }  __Organization & Body Divisions__
 
--  __Objective 2__ 
-   :fontawesome-solid-flask-vial: Basic Biochemistry
-   ---
-   [:octicons-arrow-right-24: Start here](Objective 2/Basic Biochemistry.md)
+    ---
 
--  __Objective 3__ 
-   :fontawesome-solid-disease: Cells & Tissues
-   ---
-   [:octicons-arrow-right-24: Start here](Objective 3/Body functions necessary for life.md)
+    Explore Objective 1
 
--  __Objective 4__ 
-   :simple-ipfs: Integumentary System
-   ---
-   [:octicons-arrow-right-24: Start here](Objective 4/Body functions necessary for life.md)
-    
--  __Objective 5__ 
-   :fontawesome-solid-skull-crossbones: Skeletal System
-   ---
-   [:octicons-arrow-right-24: Start here](Objective 5/Body functions necessary for life.md)
+    [:octicons-arrow-right-24: Start reading](Objective 1/Body functions necessary for life.md)
+
+
+-  :fontawesome-solid-flask-vial:{ .lg .middle }  __Basic Biochemistry__
+
+    ---
+
+    Objective 2
+
+    [:octicons-arrow-right-24: Start reading](Objective 2/Basic Biochemistry.md)
 
 </div>
 
