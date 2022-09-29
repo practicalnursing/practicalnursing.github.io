@@ -1,4 +1,4 @@
-# PN1109 - Anatomy & Physiology I
+# PN1109 - Anatomy and Physiology I
 
 
 
