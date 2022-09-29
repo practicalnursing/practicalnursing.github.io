@@ -1,3 +1,9 @@
+---
+tags:
+  - PN1109
+  - Concepts
+---
+
 # Levels of organization in the body
 
 ![[Levels of Organization.png]]

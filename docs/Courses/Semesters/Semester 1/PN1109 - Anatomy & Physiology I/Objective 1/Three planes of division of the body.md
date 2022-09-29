@@ -1,3 +1,9 @@
+---
+tags:
+  - PN1109
+  - Concepts
+---
+
 # Three planes of division of the body
 
 ![[Anatomical Planes.jpg]]

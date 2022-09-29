@@ -1,3 +1,9 @@
+---
+tags:
+  - PN1109
+  - Concepts
+---
+
 # Directional terms of the body
 
 ### Superior

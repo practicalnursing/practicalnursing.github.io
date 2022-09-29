@@ -1,3 +1,9 @@
+---
+tags:
+  - PN1109
+  - Concepts
+---
+
 # Homeostasis and its function in maintaining life
 
 [[Homeostasis]] refers to a constant internal environment even though the external world is constantly changing.
