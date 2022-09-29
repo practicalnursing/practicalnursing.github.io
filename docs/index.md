@@ -11,7 +11,7 @@ Welcome to my personal collection of notes.
 Using the left-side navigation panel or by clicking the buttons below you can explore course notes, find definitions with the key term index, and access resources to help with studying and completing assignments.
 
 
-<div class="container">
+<div class="blocknav">
 
 <div class="grid cards" markdown>
 
@@ -22,16 +22,6 @@ Using the left-side navigation panel or by clicking the buttons below you can ex
 Explore courses sorted by semester
 
 [:octicons-arrow-right-24: Start here](Courses/Semesters/index.md)
-
-:octicons-question-16:{ .lg .middle } __Help & Guides__
-
----
-
-Find guides and resources for studying and navigating the program
-
-[:octicons-arrow-right-24: Help is this way](Help & Guides/index.md)
-
-
 
 </div>
 
