@@ -13,7 +13,7 @@ Using the left-side navigation panel or by clicking the buttons below you can ex
 
 <div class="grid cards" markdown>
 
--  :fontawesome-solid-graduation-cap:{ .lg .middle } __Courses__
+-  :fontawesome-solid-graduation-cap:{ .lg .middle }  __Courses__
 
     ---
 
@@ -22,7 +22,7 @@ Using the left-side navigation panel or by clicking the buttons below you can ex
     [:octicons-arrow-right-24: Start here](Courses/Semesters/index.md)
 
 
-- :octicons-question-16:{ .lg .middle } __Help & Guides__
+- :octicons-question-16:{ .lg .middle }  __Help & Guides__
 
     ---
 
