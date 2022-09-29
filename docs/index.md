@@ -16,10 +16,10 @@ Using the left-side navigation panel or by clicking the buttons below you can ex
 
 :material-calendar-search:{ .lg .middle } __Courses__
 
-    ---
+---
 
-    Explore courses sorted by semester
+Explore courses sorted by semester
 
-    [:octicons-arrow-right-24: Start here](Courses/Semesters/index.md)
+[:octicons-arrow-right-24: Start here](Courses/Semesters/index.md)
 
 </div>
