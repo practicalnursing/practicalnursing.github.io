@@ -44,11 +44,11 @@ Occurs in body through muscles due to [[Contractility]].
 
 Many types/examples throughout the body:
 <ul>
-<li>Blood</li>
-<li>Cells</li>
-<li>Breathing muscles</li>
-<li>Skeletal muscles</li>
-<li>Food</li>
+  <li>Blood</li>
+  <li>Cells</li>
+  <li>Breathing muscles</li>
+  <li>Skeletal muscles</li>
+  <li>Food</li>
 </ul>
 
 ---
@@ -56,8 +56,10 @@ Many types/examples throughout the body:
 ### Reproduction
 
 There are two types:
-1. Formation of new person (organism)
-2. Formation of new [cells](Cells) (cellular)
+<ol> 
+  <li>Formation of new person (organism)</li>
+  <li>Formation of new [cells](Cells) (cellular)</li>
+</ol>
 
 Both types are essential for life and the continuation of a species.
 
