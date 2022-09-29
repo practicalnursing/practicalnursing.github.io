@@ -58,8 +58,9 @@ plugins:
   - tags:
       tags_file: tags.md
       tags_extra_files:
-        glossary.md:
-          - Terms
+        AP1.md:
+          - AP
+          - AP1obj1
   - search
   - roamlinks 
   - mermaid2
