@@ -1,4 +1,4 @@
 .options {
     max-width: 700px;
-    max-height: 100%;
+    max-height: initial;
 }
