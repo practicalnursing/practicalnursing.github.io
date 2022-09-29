@@ -56,10 +56,11 @@ Many types/examples throughout the body:
 ### Reproduction
 
 There are two types:
-<ol> 
-  <li>Formation of new person (organism)</li>
-  <li>Formation of new [cells](Cells) (cellular)</li>
-</ol>
+
+- Formation of new person (organism)
+  
+- Formation of new [cells](Cells) (cellular)
+
 
 Both types are essential for life and the continuation of a species.
 
