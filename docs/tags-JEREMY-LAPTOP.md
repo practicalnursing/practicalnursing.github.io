@@ -1,8 +1,0 @@
----
-hide: 
-    - footer
----
-
-# Tags
-
-[TAGS]
