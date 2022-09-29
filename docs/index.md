@@ -19,7 +19,7 @@ Using the left-side navigation panel or by clicking the buttons below you can ex
 
     Explore courses sorted by semester
 
-    [:octicons-arrow-right-24: Start here](Courses/Semesters/index.md)
+    [:octicons-arrow-right-24: Start here](Courses/index.md)
 
 
 - :octicons-question-16:{ .lg .middle }  __Help & Guides__
