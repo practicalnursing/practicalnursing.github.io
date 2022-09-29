@@ -21,6 +21,15 @@ Explore courses sorted by semester
 
 [:octicons-arrow-right-24: Start here](Courses/Semesters/index.md)
 
+
+:octicons-question-16:{ .lg .middle } __Help & Guides__
+
+---
+
+Find guides and resources for studying and navigating the program
+
+[:octicons-arrow-right-24: Help is this way](Help & Guides/index.md)
+
 </div>
 
 </div>
