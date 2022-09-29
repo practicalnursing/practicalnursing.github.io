@@ -3,7 +3,7 @@ hide:
     - footer
 ---
 
-# Semesters
+Choose a course from the grid below.
 
 <div class="grid cards" markdown>
 
@@ -13,7 +13,9 @@ hide:
 
     Explore courses for Semester One
 
-    [:fontawesome-solid-book-medical: PN1100 - Intro to Nursing Concepts](Courses/Semester 1/PN1100 - Intro to Nursing Concepts/index.md)
+    [:fontawesome-solid-book-medical: PN1100 - Intro to Nursing Concepts](Courses/Semester 1/PN1100 Intro to Nursing Concepts/index.md)
+    [:material-heart-cog: PN1109 - Anatomy & Physiology I](Courses/Semester 1/PN1109 - Anatomy & Physiology I/index.md)
+    
 
 
 </div>
