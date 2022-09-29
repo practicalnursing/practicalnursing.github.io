@@ -26,6 +26,8 @@ This is an important concept when we discuss [[Homeostasis]]
 
 [[Anabolism]] is when simple parts use energy to construct complex substances.
 
+---
+
 ### Responsiveness
 
 Also known as *excitability*.
@@ -33,6 +35,8 @@ Also known as *excitability*.
 Responding and reacting to changes in the internal and external environment.
 
 The [[Nervous System]] is mostly involved in responsiveness.
+
+---
 
 ### Movement
 
@@ -47,6 +51,8 @@ Many types/examples throughout the body:
 <li>Food</li>
 </ul>
 
+---
+
 ### Reproduction
 
 There are two types:
@@ -55,16 +61,21 @@ There are two types:
 
 Both types are essential for life and the continuation of a species.
 
+---
+
 ### Growth
 
 Increase in the size of a body part or entire organism.
 
 [Anabolic](Anabolism.md) (constructive) processes must occur faster than [Catabolic](Catabolism.md) (destructive) processes.
 
+---
+
 ### Digestion
 
 The [metabolic](Metabolism.md) process of breaking down food into simpler [molecules](Molecule.md) to be used by the body
 
+---
 
 ### Excretion
 
