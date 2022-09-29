@@ -13,22 +13,22 @@ Using the left-side navigation panel or by clicking the buttons below you can ex
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-graduation-cap:{ .lg .middle } __Courses__
+-  :fontawesome-solid-graduation-cap:{ .lg .middle } __Courses__
 
----
+    ---
 
-Explore courses sorted by semester
+    Explore courses sorted by semester
 
-[:octicons-arrow-right-24: Start here](Courses/Semesters/index.md)
+    [:octicons-arrow-right-24: Start here](Courses/Semesters/index.md)
 
 
 - :octicons-question-16:{ .lg .middle } __Help & Guides__
 
----
+    ---
 
-Find guides and resources for studying and navigating the program
+    Find guides and resources for studying and navigating the program
 
-[:octicons-arrow-right-24: Help is this way](Help & Guides/index.md)
+    [:octicons-arrow-right-24: Help is this way](Help & Guides/index.md)
 
 </div>
 
