@@ -1,4 +1,0 @@
-# Course Home
-
-## Course Overview
-

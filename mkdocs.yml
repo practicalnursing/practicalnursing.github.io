@@ -55,7 +55,10 @@ markdown_extensions:
 
 plugins:
   - tags:
-      tags_file: tags.md
+      tags_extra_files:
+        tags.md:
+          - terms
+
   - search
   - roamlinks 
   - mermaid2
@@ -70,6 +73,9 @@ extra_javascript:
   - https://unpkg.com/mermaid/dist/mermaid.min.js 
 
 extra:
+  tags:
+    Terms: terms
   generator: false
+  
 
 copyright: Copyright &copy; 2022 - 2024 Jeremy Saunders
