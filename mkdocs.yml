@@ -56,10 +56,10 @@ markdown_extensions:
 
 plugins:
   - tags:
+      tags_file: tags.md
       tags_extra_files:
-        tags.md:
+        glossary.md:
           - Terms
-
   - search
   - roamlinks 
   - mermaid2
