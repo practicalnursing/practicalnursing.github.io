@@ -80,6 +80,7 @@ extra:
   generator: false
 
 extra_css:
+  - stylesheets/main.38a480a7.min.css
   - stylesheets/extra.css
   
 
