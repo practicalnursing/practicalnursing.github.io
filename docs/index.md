@@ -14,12 +14,12 @@ Using the left-side navigation panel or by clicking the buttons below you can ex
 
 <div class="grid cards" markdown>
 
--   :material-scale-balance:{ .lg .middle } __Semesters__
+-   :material-calendar-search:{ .lg .middle } __Courses__
 
     ---
 
-    Explore courses sorted by semester on []
+    Explore courses sorted by semester
 
-    [:octicons-arrow-right-24: ](#)
+    [:octicons-arrow-right-24: Start here](Semesters)
 
 </div>
