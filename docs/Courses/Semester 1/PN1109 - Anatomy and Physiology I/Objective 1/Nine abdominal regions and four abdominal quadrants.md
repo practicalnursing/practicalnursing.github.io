@@ -18,7 +18,7 @@ The **epigastric region** is located just above the main organs of the digestive
 "Epi" is a prefix meaning "above or upon" and "gastric" means "of the stomach".
 
 The **hypochondriac regions** are located on either side of the epigastric region and just below the pectorals.
-"Hypo" means "under or below" and chondriac refers to the chest cartilage.
+"Hypo" means "under or below" and chondriac refers to the cartilage of the ribs.
 
 The **umbilical region** is amptly named, referring to the navel area and the location of the umbilical cord.
 
