@@ -37,7 +37,7 @@ Choose a course objective below to get started.
 
     Explore Objective 4
 
-    [:octicons-arrow-right-24: Start reading](Objective 4/test.md)
+    [:octicons-arrow-right-24: Start reading](Objective 4/Integumentary System.md)
 
 
 -  :fontawesome-solid-skull-crossbones:{ .lg .middle }  __Skeletal System__
@@ -46,7 +46,7 @@ Choose a course objective below to get started.
 
     Explore Objective 5
 
-    [:octicons-arrow-right-24: Start reading](Objective 5/test.md)
+    [:octicons-arrow-right-24: Start reading](Objective 5/Skeletal System.md)
 
 
 </div>
