@@ -10,7 +10,7 @@ Choose a course objective below to get started.
 
     Explore Objective 1
 
-    [:octicons-arrow-right-24: Start reading](Objective 1/Levels of Organization & Major Divisions.md)
+    [:octicons-arrow-right-24: Start reading](Objective 1/Levels of Organization and Major Divisions.md)
 
 
 -  :fontawesome-solid-flask-vial:{ .lg .middle }  __Basic Biochemistry__
@@ -28,7 +28,7 @@ Choose a course objective below to get started.
 
     Explore Objective 3
 
-    [:octicons-arrow-right-24: Start reading](Objective 3/Cells & Tissues.md)
+    [:octicons-arrow-right-24: Start reading](Objective 3/Cells and Tissues.md)
 
 
 -  :simple-ipfs:{ .lg .middle }  __Integumentary System__
@@ -50,5 +50,3 @@ Choose a course objective below to get started.
 
 
 </div>
-
-

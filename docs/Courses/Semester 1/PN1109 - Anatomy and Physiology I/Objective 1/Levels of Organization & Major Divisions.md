@@ -138,7 +138,7 @@ Many types/examples throughout the body:
 There are two types:
 
 - Formation of new person (organism)
-  
+
 - Formation of new [cells](Cell) (cellular)
 
 
@@ -452,7 +452,7 @@ The abdominopelvic cavity contains the main organs of the digestive, urinary, an
 The dorsal/posterior cavity is in the **posterior (back)** of the body. It consists of two components as well: the **spinal cavity** and the **cranial cavity**.
 
 The spinal cavity (also known as the vertebral cavity) contains the spinal cord, meninges (protective layer) and cerebrospinal fluid (CBF).  
-  
+
 The cranial cavity contains the space within the skull. It contains the brain, meninges (protective layer) and CBF.
 
 
