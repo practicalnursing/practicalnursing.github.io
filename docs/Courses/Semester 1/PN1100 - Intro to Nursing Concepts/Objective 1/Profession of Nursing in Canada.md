@@ -31,7 +31,7 @@ The Grey Nuns gained respect for the work they did, providing cares at homes dur
 
 ![[Florence Nightengale.jpeg]]
 
-Florence Nightgale is known as the founder of modern nursing.
+Florence Nightengale is known as the founder of modern nursing.
 
 She first came to prominence as the appointed superintendent of English nurses in the Crimean War (1853-56). During the war, she was responsible for reducing the soldier mortality rate from 44% to 2.2% in 6 months.
 
