@@ -1,6 +1,13 @@
+---
+tags:
+  - PN1109
+  - Terms
+  - Concepts
+---
+
 # Aging trends and societal views on aging
 
-
+---
 
 ## What is Gerontology?
 
@@ -131,9 +138,9 @@ Discriminating against older people is usually associated with negative attitude
 
 Some examples include:
 - Assuming older people are not capable of speaking for themselves
-- Believing that older people are 'too old' or not able to handle 'aggressive' treatments of disease like cancer or undergoing dialysis for kidne
-
-
+- Assuming older people will 'lose their minds' or their memory
+- Believing that older people are 'too old' or not able to handle 'aggressive' treatments of disease like cancer or undergoing dialysis
+- Family refrains from allowing experimental treatment because its 'too late anyways'
 
 
 
