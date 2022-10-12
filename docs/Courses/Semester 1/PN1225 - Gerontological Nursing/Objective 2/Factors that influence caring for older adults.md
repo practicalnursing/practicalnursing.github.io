@@ -191,6 +191,48 @@ Also, global policites must be developed to meet income, health, and long-term c
 
 ## Communicating with older persons
 
+There are several factors that influence communication with older adults:
+
+- Ageism
+- Culture
+- Sensory deficits
+- Level of wellness
+- Mental health issues
+
+#### Elderspeak
+
+This is a form of ageism where young people alter their speech based on the assuption that older adults will have difficulty understanding and comprehending them. This is similar to how we speak to children or house pets.
+
+#### Components of effective communication
+
+The best way to communicate effectively is to:
+
+- Avoid using Elderspeak
+- Be present and respectful
+- Listen intently
+- Ensure a non-judgmental attitude
+- Learn about and consider cultural differences and barriers
+- Use open-ended questions often and use close-ended questions when seeking information
+- Validate the older person and attempt to understand
+
+It's so important to listen and encourage older adults to share their story and who they are.
+
+Not only is it crucial in personal growth, but in the development of nurse-client relationships.
+Nurses are privileged to be able to be around to hear about the personal life and many experiences of an older person.
+
+
+## Culture, ethnicity and aging
+
+Canada is a multicultural society.
+
+In fact, approximately 1/3 of Canadians over the age of 65 are immigrants.
+Not only that, but 6 million are visible minorities and 1.4 million are members of the indigenous community.
+
+A **visible minority** is a person who is non-Caucasian in race or non-white in colour.
+
+
+
+
 
 
 
